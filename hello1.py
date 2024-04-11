@@ -1,2 +1,0 @@
-def bruh():
-	return "brah"
